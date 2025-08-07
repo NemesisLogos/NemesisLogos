@@ -7,8 +7,6 @@ I'm a Social Worker specialized in **Human Rights** and **Project Management**, 
 ## 🚀 What I'm Working On
 
 - Integrating **data science** into social impact projects  
-- Automating workflows with **Bash scripting** and **Power Apps**  
-- Optimizing resources in community-driven initiatives  
 - Analyzing data to support **evidence-based public policy**
 
 ---
